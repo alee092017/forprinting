@@ -169,7 +169,7 @@ AJAX adds for a much better user experience.
 
 ### AJAX Diagram
 
-![AJAX Diagram](assets/ajax_diagram.png)
+![AJAX Diagram](.assets/ajax_diagram.png)
 *This happens w/o the page refreshing!*
 
 
